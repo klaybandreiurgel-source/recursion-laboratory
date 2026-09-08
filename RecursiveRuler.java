@@ -8,8 +8,9 @@ public class RecursiveRuler {
      * Programmed by: Clive Andrei C. Urgel, BSIT, 48143,Data Structure
      * Last Modified: September 7, 2026
      * Version: 1.0
-     * Acknowledgements: Generative AI used for explanation of function of code and how it works.
-     */
+     * Acknowledgements: Generative AI used for explanation of function of code,
+     * explnation of recursion, and how it works.
+    */
 
     // Generates the smaller markings recursively
     static void drawSubdivisions(int level) {
