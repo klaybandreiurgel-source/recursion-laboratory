@@ -39,4 +39,4 @@ Equivalent length: 3.94 inches
 The actual program also displays the complete recursive subdivisions and recursion trace.
 
 ## AI Disclosure
-OpenAI GPT-5.6 Luna was used to assist with code drafting, explanation, test cases, and documentation. The generated output should be reviewed and understood by the student before submission. The student should make any necessary corrections or personalization and verify the program by compiling and running it.
+OpenAI GPT-5.6 Luna was used to assist with code, explanation, test cases, and documentation. The output should be reviewed and understood by the student before submission. The student should make any necessary corrections or personalization and verify the program by compiling and running it.
