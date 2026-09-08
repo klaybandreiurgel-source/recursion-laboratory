@@ -10,7 +10,7 @@ public class RecursiveRuler {
      * Version: 1.0
      * Acknowledgements: Generative AI used for explanation of function of code,
      * explnation of recursion, and how it works.
-    */
+     */
 
     // Generates the smaller markings recursively
     static void drawSubdivisions(int level) {
@@ -62,7 +62,7 @@ public class RecursiveRuler {
 
         // Show when the function returns
         System.out.println(
-            "TRACE: Returning from drawRuler("10
+            "TRACE: Returning from drawRuler("
             + currentCm + ", " + targetCm + ")"
         );
     }
